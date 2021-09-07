@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotnetCoreSkeleton", "DotnetCoreSkeleton\DotnetCoreSkeleton.csproj", "{110E7BDA-C9A3-48F2-AC23-E4F8B8CDDB53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{1DF2BDFA-EAF1-47A6-872D-9EE1E7B1AB26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{110E7BDA-C9A3-48F2-AC23-E4F8B8CDDB53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{110E7BDA-C9A3-48F2-AC23-E4F8B8CDDB53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{110E7BDA-C9A3-48F2-AC23-E4F8B8CDDB53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{110E7BDA-C9A3-48F2-AC23-E4F8B8CDDB53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DF2BDFA-EAF1-47A6-872D-9EE1E7B1AB26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DF2BDFA-EAF1-47A6-872D-9EE1E7B1AB26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DF2BDFA-EAF1-47A6-872D-9EE1E7B1AB26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DF2BDFA-EAF1-47A6-872D-9EE1E7B1AB26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0DA8EBA-C240-41C3-86BF-37621DE90403}
+	EndGlobalSection
+EndGlobal
